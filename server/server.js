@@ -15,10 +15,6 @@ app.use(bodyParser.json());
 // server routes 
 
 
-
-
-
-
 // serving on port 
 app.listen(port,(err)=>{
     if(err){
